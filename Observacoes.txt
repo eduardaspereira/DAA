@@ -1,0 +1,14 @@
+-----Já implementado-------------
+- Record_Date substituída por Hora, DiaSemana, Mes
+- Luminosidade substituída por Luminosity_DARK, Luminosity_LOW_LIGHT, Luminosity_LIGHT
+- removida Average_Rain porque 91.74% de dados em falta
+- removida AVERAGE_CLOUDINESS porque 39.37% de dados em falta
+
+
+--------Label Encoding Dias da Semana -----
+Segunda: 0
+Domingo: 6
+
+--------Label Encoding Average_Speed_Diff-----
+None: 0
+Low : 1
