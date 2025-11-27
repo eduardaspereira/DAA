@@ -33,7 +33,7 @@ RowId,Speed_Diff
 32,Low
 33,Very_High
 34,Medium
-35,None
+35,Low
 36,Low
 37,Medium
 38,High
@@ -44,7 +44,7 @@ RowId,Speed_Diff
 43,High
 44,Very_High
 45,High
-46,Low
+46,Medium
 47,Medium
 48,Low
 49,Low
@@ -130,7 +130,7 @@ RowId,Speed_Diff
 129,Medium
 130,None
 131,High
-132,None
+132,Low
 133,Medium
 134,Medium
 135,Very_High
@@ -203,7 +203,7 @@ RowId,Speed_Diff
 202,None
 203,Medium
 204,Low
-205,Medium
+205,Low
 206,None
 207,High
 208,Low
@@ -321,7 +321,7 @@ RowId,Speed_Diff
 320,Medium
 321,Low
 322,Medium
-323,Low
+323,None
 324,Medium
 325,None
 326,Medium
@@ -433,12 +433,12 @@ RowId,Speed_Diff
 432,Medium
 433,Low
 434,High
-435,Medium
+435,Low
 436,None
 437,None
 438,Low
-439,Low
-440,Low
+439,Medium
+440,None
 441,High
 442,High
 443,High
@@ -476,12 +476,12 @@ RowId,Speed_Diff
 475,Very_High
 476,Low
 477,Low
-478,High
+478,Medium
 479,Very_High
 480,High
-481,Low
+481,Medium
 482,Medium
-483,Low
+483,None
 484,Very_High
 485,Medium
 486,Low
@@ -639,7 +639,7 @@ RowId,Speed_Diff
 638,None
 639,Very_High
 640,None
-641,None
+641,Low
 642,None
 643,Medium
 644,Medium
@@ -712,7 +712,7 @@ RowId,Speed_Diff
 711,Medium
 712,Low
 713,Low
-714,Low
+714,None
 715,Medium
 716,Medium
 717,High
@@ -728,8 +728,8 @@ RowId,Speed_Diff
 727,Medium
 728,High
 729,Low
-730,High
-731,Medium
+730,Medium
+731,Low
 732,Low
 733,Medium
 734,High
@@ -796,7 +796,7 @@ RowId,Speed_Diff
 795,Low
 796,Low
 797,Low
-798,Very_High
+798,High
 799,None
 800,High
 801,None
@@ -880,7 +880,7 @@ RowId,Speed_Diff
 879,Medium
 880,Low
 881,Medium
-882,Very_High
+882,High
 883,Medium
 884,None
 885,Medium
@@ -912,7 +912,7 @@ RowId,Speed_Diff
 911,Low
 912,Medium
 913,None
-914,Medium
+914,Low
 915,Medium
 916,None
 917,High
@@ -935,7 +935,7 @@ RowId,Speed_Diff
 934,Medium
 935,None
 936,Medium
-937,Low
+937,None
 938,None
 939,Low
 940,Low
@@ -1014,9 +1014,9 @@ RowId,Speed_Diff
 1013,None
 1014,Low
 1015,Medium
-1016,Low
+1016,Medium
 1017,None
-1018,Low
+1018,Medium
 1019,Low
 1020,Medium
 1021,None
@@ -1094,7 +1094,7 @@ RowId,Speed_Diff
 1093,None
 1094,Low
 1095,Low
-1096,Medium
+1096,High
 1097,Low
 1098,None
 1099,High
@@ -1134,7 +1134,7 @@ RowId,Speed_Diff
 1133,Very_High
 1134,High
 1135,Very_High
-1136,Medium
+1136,Low
 1137,Medium
 1138,Very_High
 1139,Medium
@@ -1151,7 +1151,7 @@ RowId,Speed_Diff
 1150,None
 1151,High
 1152,None
-1153,Medium
+1153,Low
 1154,Medium
 1155,High
 1156,None
@@ -1211,7 +1211,7 @@ RowId,Speed_Diff
 1210,High
 1211,Medium
 1212,Low
-1213,Low
+1213,Medium
 1214,Medium
 1215,None
 1216,High
@@ -1226,7 +1226,7 @@ RowId,Speed_Diff
 1225,High
 1226,None
 1227,Medium
-1228,Low
+1228,Medium
 1229,Medium
 1230,High
 1231,Medium
@@ -1254,7 +1254,7 @@ RowId,Speed_Diff
 1253,None
 1254,High
 1255,None
-1256,Medium
+1256,Low
 1257,None
 1258,None
 1259,Low
@@ -1335,7 +1335,7 @@ RowId,Speed_Diff
 1334,Medium
 1335,None
 1336,Low
-1337,Low
+1337,None
 1338,Low
 1339,None
 1340,High
@@ -1369,7 +1369,7 @@ RowId,Speed_Diff
 1368,None
 1369,Medium
 1370,Medium
-1371,Low
+1371,Medium
 1372,None
 1373,High
 1374,Low
@@ -1400,13 +1400,13 @@ RowId,Speed_Diff
 1399,Medium
 1400,Very_High
 1401,None
-1402,Medium
+1402,Low
 1403,Medium
 1404,Low
 1405,High
 1406,High
 1407,High
-1408,None
+1408,Low
 1409,Very_High
 1410,High
 1411,None
@@ -1442,7 +1442,7 @@ RowId,Speed_Diff
 1441,High
 1442,Medium
 1443,High
-1444,Low
+1444,Medium
 1445,High
 1446,Low
 1447,Medium
@@ -1468,7 +1468,7 @@ RowId,Speed_Diff
 1467,Medium
 1468,Very_High
 1469,None
-1470,Low
+1470,None
 1471,Low
 1472,None
 1473,Medium
